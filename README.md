@@ -1,4 +1,4 @@
-# EXPERIMENT-6 JAVA PROGRAM TO CALCULATE THE POWER OF A NUMBER USING RECURSION.
+## EXPERIMENT-6 JAVA PROGRAM TO CALCULATE THE POWER OF A NUMBER USING RECURSION.
 
 # AIM:
   To write a java program to calculate power of a number raised to other using recursion.
@@ -25,7 +25,7 @@
         powerRaised=s.nextInt();<br>
         int result = power(base, powerRaised);<br>
         System.out.println(base + "^" + powerRaised + "=" + result);<br>
-      }<br>
+      }<br><br>
       public static int power(int base, int powerRaised)<br>
       {<br>
         if (powerRaised != 0)<br>
