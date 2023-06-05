@@ -1,9 +1,9 @@
-## EXPERIMENT-6 JAVA PROGRAM TO CALCULATE THE POWER OF A NUMBER USING RECURSION.
+# EXPERIMENT-6 JAVA PROGRAM TO CALCULATE THE POWER OF A NUMBER USING RECURSION.
 
-# AIM:
+## AIM:
   To write a java program to calculate power of a number raised to other using recursion.
  
-# ALGORITHM:
+## ALGORITHM:
   1. Import Scanner to get input for base value and power value from the user.
   2. Using recursion, create a class called power to calculate the output.
   3. If the power value is equal to 0 , then the output will be 1.
@@ -11,7 +11,7 @@
   5. In main class, call the recursion using the class name with arguments.
   6. Print the result.
   
- # PROGRAM:
+ ## PROGRAM:
    import java.util.Scanner;<br>
    public class Power<br>
    {<br>
@@ -39,9 +39,9 @@
       }<br>
   }
   
- # OUTPUT:
+ ## OUTPUT:
  <img width="243" alt="java ex6 op" src="https://github.com/divvisha/CALCULATE-POWER-OF-A-NUMBER/assets/127508123/ff2c6719-b8ce-494f-a0b4-65d6fa75bdf7">
 
 
-# RESULT:
+## RESULT:
   Thus the java program to calculate the power of a number using recursion has been created and executed successfully.
